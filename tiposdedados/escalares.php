@@ -11,3 +11,4 @@ endif;
 
 /*** Compostos ***/
 $carros = array("gol","uno","camaro", 12,20.5);
+var_dump($carros);

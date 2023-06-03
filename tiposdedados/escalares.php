@@ -8,3 +8,6 @@ if (is_numeric($nome)):
 else:
     echo "é uma string";
 endif;
+
+/*** Compostos ***/
+$carros = array("gol","uno","camaro", 12,20.5);
